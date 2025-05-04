@@ -1,0 +1,185 @@
+sudo apt install gcc make perl
+sudo su
+sudo apt update
+sudo apt install git
+git config --global user.name "Fernanda" 
+git config --global user.email "fer.fislu@gmail.com"
+supdate
+sudo apt update
+power off
+sudo apt install bzip2
+cd /media/$USER/VBox_GAs*
+sudo ./VBoxLinuxAdittions.run
+cd /media/$USER/VBox_GAs*
+sudo ./VBoxLinuxAdittions.run
+ls /media/$USER
+cd "/media/$USER/VBox_GAs_7.1.8"
+sudo ./VBoxLinuxAdditions.run
+sudo apt update
+sudo apt install bzip2
+cd "/media/$USER/VBox_GAs_7.1.8"
+sudo ./VBoxLinuxAdditions.run
+sudo apt install bzip2
+cd "/media/$USER/VBox_GAs_7.1.8"
+sudo ./VBoxLinuxAdditions.run
+lsmod ]
+lsmod | grep vboxguest
+sudo apt update && sudo apt install build-essential dkms linux-headers-$(uname -r) bzip2
+[200~cd "/media/$USER/VBox_GAs_7.1.8"
+sudo ./VBoxLinuxAdditions.run
+ls /media/$USER
+cd "/media/$USER/VBox_GAs_7.1.8"
+ls
+sudo ./VBoxLinuxAdditions.run
+sudo reboot
+passwd
+fer
+passwd
+sudo reboot
+history
+fer
+ssh-keygen
+cat ~/.ssh/id_ed25519.pub
+cat $HOME/.ssh/*.pub~
+[200~ls -l ~/.ssh
+~echo $SHELL
+[200~echo $SHELL
+echo $SHELL
+cat $HOME/.ssh/*.pub
+cd
+mkdir repogit
+cd repogit
+git clone
+git@github.com:lu-fernanda-3/TP_AySO.git
+cd ~/repogit
+git clone
+git@github.com:lu-fernanda-3/TP_AySO.git
+cat ~/.ssh/id_rsa.pub
+ls ~/.ssh
+cat ~/ .ssh/id_rsa.pub
+ls ~/.ssh
+cd ~/repogit
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+ssh -T git@github.com
+git clone git@github.com:lu-fernanda-3/TP_AySO.git
+cd TP_AySO/
+ls -l
+pwd
+ls -l
+cat /etc/os-release
+cd
+cd ~
+cd repogit
+ls
+cd TP_AySO/
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep <parámetro> Home_url /etc/os-release
+grep <parámetro> HOME_URL /etc/os-release
+grep -i Home_url /etc/os-release
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+git add .
+git config --global user.email "TU-email"
+git config --global user.name "Tu-
+Usuario"
+cd
+cd ~
+cd repogit
+ls
+cd TP_AySO/
+pwd
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i home_url /etc/os-release
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+git add .
+git config --global user.email "TU-email"
+git config --global user.name "Tu-Usuario"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+cd ~
+cd repogit
+ls
+cd TP_AySO/
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i home_url /etc/os-release
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt
+ls
+git add .
+git config --global user.email "fer.fislu@gmail.com"
+git config --global user.name "fer-lu"
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt"
+git status
+git push
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+cat /proc/cpuinfo
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+git add datos_usuario.txt
+git commit -m "feat: Añadiendo información de CPU"
+git push
+cat <<EOF >> README.md
+Alumna: Fernanda Ludueña.
+División: 315
+Turno: Noche.
+EOF
+
+git add README.md datos_usuarios.txt
+ls
+cd
+cd ~
+rm -rf repogit
+cd ~
+ls
+“ssh-keygen”
+ssh-keygen
+rm ~/.ssh/id_ed25519 ~/.ssh/id_ed25519.pub
+ssh-keygen
+cat $HOME/.ssh/*.pub
+cd
+mkdir repogit
+cd repogit
+git clone git@github.com:lu-fernanda-3/TP_AySO.git
+cd TP_AySO/
+pwd
+ls -l
+cat /etc/os-release 
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i Home_url /etc/os-release
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt 
+ls
+git add .
+git config --global user.email "fer.fislu@gmail.com"
+git config --global user.name "lu-fernanda-3"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+git push
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+git add datos_usuario.txt
+git commit -m "feat: Añadiendo información de CPU"
+git push
+DIVISION: 315. Turno: Noche.
+EOF
+
+git add README.md datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+history -a 
